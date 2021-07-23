@@ -1,2 +1,2 @@
-# projeto-sistema-jogo-de-xadrez-no-console-em-java
-Projeto acadêmico de um jogo de xadrez que é executado no console/terminal, do Curso de Java DevSuperior na Udemy.
+# Projeto sistema jogo de xadrez em Java
+Projeto acadêmico de um jogo de xadrez que é executado no terminal Git Bash, do Curso de Java DevSuperior na Udemy.
